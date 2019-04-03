@@ -66,6 +66,9 @@
     <Compile Include="Assets\Test 18自定义窗体 并打包\Editor\BuildAndroid.cs" />
     <Compile Include="Assets\Test 19批量添加命名空间\Editor\AddNamespaceTool.cs" />
     <Compile Include="Assets\Test 21unity改动之后设置签名\Editor\Tool_Build.cs" />
+    <Reference Include="Cinemachine">
+      <HintPath>D:/Work/mytest/TestProject/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Work/mytest/TestProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -75,17 +78,14 @@
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>D:/Work/mytest/TestProject/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>D:/Work/mytest/TestProject/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>D:/Work/mytest/TestProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
       <HintPath>D:/Work/mytest/TestProject/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
-    </Reference>
-    <Reference Include="Cinemachine">
-      <HintPath>D:/Work/mytest/TestProject/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
-    </Reference>
-    <Reference Include="com.unity.cinemachine.editor">
-      <HintPath>D:/Work/mytest/TestProject/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>H:/Unity 2018.3.0/Editor/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

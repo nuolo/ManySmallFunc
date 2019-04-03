@@ -70,6 +70,7 @@
     <Compile Include="Assets\Test 1U3D的事件系统用于3D物体\Obj3DClick.cs" />
     <Compile Include="Assets\Test 1U3D的事件系统用于3D物体\PointerClickHandler.cs" />
     <Compile Include="Assets\Test 20方块果冻效果\RubberEffect.cs" />
+    <Compile Include="Assets\Test 23刷新Layout\GridLayoutTest.cs" />
     <Compile Include="Assets\Test 2UGUI按钮按下，触碰，抬起，离开\UIInfo.cs" />
     <Compile Include="Assets\Test 3拖拽任意的对象\GameobjectDragAndDrop.cs" />
     <Compile Include="Assets\Test 4数据保存Text文档和读取\TextCreate.cs" />
@@ -90,6 +91,9 @@
     <None Include="Assets\Test 7Shader-描边效果\NormalUnlitShader.shader" />
     <None Include="Assets\Test 13 小技巧 如何不写代码制作不会穿墙的摄像头\Readme.txt" />
     <None Include="Assets\Test 0 批量动画优化GPU\Readme.txt" />
+    <Reference Include="Cinemachine">
+      <HintPath>D:/Work/mytest/TestProject/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Work/mytest/TestProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -99,17 +103,14 @@
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>D:/Work/mytest/TestProject/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>D:/Work/mytest/TestProject/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>D:/Work/mytest/TestProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
       <HintPath>D:/Work/mytest/TestProject/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
-    </Reference>
-    <Reference Include="Cinemachine">
-      <HintPath>D:/Work/mytest/TestProject/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
-    </Reference>
-    <Reference Include="com.unity.cinemachine.editor">
-      <HintPath>D:/Work/mytest/TestProject/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>H:/Unity 2018.3.0/Editor/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
